@@ -1,0 +1,72 @@
+Question 1)
+When a database is split into chunks, with each server holding one chunk, and an additional server is present to provide overall lookups, this is called what?
+
+Master-slave replication
+Reverse proxy
+Caching
+Sharding
+Question 2)
+A reverse proxy can be used to serve what parts of a web application, leaving the rest to be handled by the web server?
+
+API calls
+Database calls
+Static files
+Application URLs
+Question 3)
+When internal applications or microservices are communicating across private IP spaces, _____ may be necessary.
+
+A content delivery network
+Private load balancing
+External client requests
+Public load balancing
+Question 4)
+Tools like load balancers, computing units, and storage are typically offered as part of which service model?
+
+PaaS
+SaaS
+DBaaS
+IaaS
+Question 5)
+What are some of the traits of a type-1 hypervisor? Select all that apply.
+
+Runs on bare metal servers
+Runs on top of an operating system
+More efficient
+Has a simple management console
+Question 6)
+The management, networking, deployment, and scaling of containers is handled through _____.
+
+An operating system
+A hypervisor
+Container orchestration
+Containerization
+Question 7)
+Which type of server will automatically collect static files from a web server when they change?
+
+Load balancer
+Push CDN
+Hypervisor
+Pull CDN
+Question 8)
+Which of the following items are true about scalability? Select all that apply.
+
+In horizontal scaling, you keep adding more computing units in the network.
+In vertical scaling, you keep adding processing cores, RAM and storage in the server.
+In vertical scaling, you keep adding more computing units in the network.
+In auto-scaling, the scalability is managed by the cloud provider, and the capacity increases or decreases according to the load.
+In horizontal scaling, you keep adding processing cores, RAM and storage in the server.
+Question 9)
+Using this type of storage, you can upload and download large or small files via an API, as well as make those files available to anyone for a specified amount of time.
+
+Object storage
+Redundant storage
+Database storage
+Volatile storage
+Question 10)
+In _____, after code is developed and tested, it is automatically moved to production to update the current application.
+
+Serverless computing
+Version control
+Continuous integration (CI)
+Continuous deployment (CD)
+ 
